@@ -1,0 +1,83 @@
+Website Plan Template
+
+1. Planned Pages
+
+title is Homepage, filename is index.html
+title is Using The Code Editor, filename is editor.html
+title is HTML Semantic Elements, filename is semantic.html
+title is CSS Layout & Responsive Design, filename is layout.html
+title is Accessibility, filename is accessibility.html
+title is Ethical Issues in Web Development, filename is ethics.html
+title is Validation for HTML & CSS Code, filename is validation.html
+title is Using Generative AI, filename generative.html
+
+2. Content Details for Each Page
+
+The Homepage will have navigation to the other pages.
+Using The Code Editor will have a video and description
+HTML Semantic Elements will have a link and description
+CSS Layout & Responsive Design will have a link and description
+Accessibility will have a link and description
+Ethical Issues in Web Development will have a link and description
+Validation for HTML & CSS Code will have a video and description
+Using Generative AI will have a link and description
+
+3. Planned Media and Assets
+
+Videos :
+
+Using The Code Editor - https://www.youtube.com/watch?v=IABqmqfv4ms
+Validation for HTML & CSS - https://www.youtube.com/watch?v=21CGQG0WkoU
+
+Links :
+
+HTML Semantic Elements - https://www.freecodecamp.org/news/semantic-html5-elements/
+CSS Layout & Responsive Design - https://www.w3schools.com/css/css_selectors.asp
+Accessibility - https://www.w3schools.com/html/html_accessibility.asp
+Ethical Issues in Web Development - https://dkc.umw.edu/tools/ethical-uses-of-media-for-web-projects/
+
+4. Navigation Plan
+
+Navigation Menu Labels
+
+Code Editor
+Semantic Elements
+CSS Layout
+Accessibility
+Ethical Issues
+Validation
+Generative AI
+
+Footer links
+
+Home
+
+5. Accessibility Considerations
+
+No Images
+
+Each Page will have a heading for the video/link and a heading for the description
+
+I will using color combinations that meet contrast guidelines
+
+6. File and Folder Plan
+
+/FinalProject
+ index.html
+ styles.css
+ /pages
+  editor.html
+  semantic.html
+  layout.html
+  accessibility.html
+  ethics.html
+  validation.html
+  generative.html
+
+
+7. Code Validation
+
+I will use the two validators that were used with project 3.
+https://validator.w3.org/
+https://jigsaw.w3.org/css-validator/
+
