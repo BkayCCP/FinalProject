@@ -27,14 +27,22 @@ Using Generative AI will have a link and description
 Videos :
 
 Using The Code Editor - https://www.youtube.com/watch?v=IABqmqfv4ms
+HTML Semantic Elements - https://www.youtube.com/watch?v=Nmaf4ir3QkM
+CSS Layout & Responsive Design - https://www.youtube.com/live/vXnUOEwynHo
+Accessibility - https://www.youtube.com/watch?v=4qglOhoN7Gc
+Ethical Issues in Web Development - https://www.youtube.com/watch?v=4l_SjcXctwI
 Validation for HTML & CSS - https://www.youtube.com/watch?v=21CGQG0WkoU
+Using Generative AI - https://www.youtube.com/watch?v=DLzzhG1ORm8
 
 Links :
 
+Using The Code Editor - https://www.w3schools.com/html/html_paragraphs.asp
 HTML Semantic Elements - https://www.freecodecamp.org/news/semantic-html5-elements/
 CSS Layout & Responsive Design - https://www.w3schools.com/css/css_selectors.asp
 Accessibility - https://www.w3schools.com/html/html_accessibility.asp
 Ethical Issues in Web Development - https://dkc.umw.edu/tools/ethical-uses-of-media-for-web-projects/
+Validation for HTML & CSS - https://webaim.org/techniques/tables/data
+Using Generative AI - https://www.wix.com/studio/blog/ai-web-design
 
 4. Navigation Plan
 
