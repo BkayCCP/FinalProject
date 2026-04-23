@@ -58,7 +58,7 @@ Generative AI
 
 Footer links
 
-Home
+Github
 
 5. Accessibility Considerations
 
